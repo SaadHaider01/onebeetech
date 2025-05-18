@@ -1,0 +1,35 @@
+{
+  "glyphs": {
+    "W": { "ha": 800, "x_min": 0, "x_max": 800, "o": "m 800 681 l 589 0 l 476 0 l 336 496 l 197 0 l 84 0 l 0 681 l 120 681 l 163 165 l 308 681 l 367 681 l 512 165 l 681 681 l 800 681 z" },
+    "H": { "ha": 800, "x_min": 0, "x_max": 800, "o": "m 800 0 l 680 0 l 680 311 l 120 311 l 120 0 l 0 0 l 0 681 l 120 681 l 120 411 l 680 411 l 680 681 l 800 681 l 800 0 z" },
+    "Y": { "ha": 800, "x_min": 0, "x_max": 800, "o": "m 800 681 l 460 267 l 460 0 l 341 0 l 341 267 l 0 681 l 137 681 l 401 368 l 664 681 l 800 681 z" },
+    "U": { "ha": 800, "x_min": 0, "x_max": 800, "o": "m 800 681 l 800 261 q 762 131 800 184 q 670 36 724 78 q 542 -10 617 -5 q 400 -20 467 -16 q 258 -10 333 -16 q 130 36 183 -5 q 38 131 76 78 q 0 261 0 184 l 0 681 l 120 681 l 120 261 q 138 191 120 219 q 188 147 157 163 q 262 126 220 132 q 350 120 303 120 q 438 126 397 120 q 512 147 480 132 q 562 191 544 163 q 580 261 580 219 l 580 681 l 700 681 l 800 681 z" },
+    "S": { "ha": 800, "x_min": 0, "x_max": 800, "o": "m 800 187 q 763 113 788 146 q 690 55 737 79 q 587 17 643 31 q 458 0 530 2 q 338 9 393 -2 q 242 41 284 20 q 171 97 201 63 q 128 179 141 132 q 120 286 115 226 l 240 286 q 244 234 240 254 q 261 198 249 213 q 293 174 274 183 q 341 158 311 164 q 410 151 371 153 q 500 147 449 148 q 577 151 542 146 q 637 167 612 156 q 677 197 662 178 q 692 243 692 215 q 673 292 692 273 q 621 322 654 311 q 545 340 587 333 q 456 357 504 348 q 361 378 409 366 q 274 410 314 390 q 206 459 234 429 q 163 531 177 488 q 149 633 149 574 q 184 747 149 700 q 275 826 219 795 q 408 868 332 856 q 570 880 485 880 q 713 867 651 880 q 819 830 775 854 q 736 696 791 748 q 609 680 682 644 q 533 696 564 686 q 475 714 501 705 q 435 731 449 724 q 412 747 421 738 q 402 764 403 755 q 400 783 400 773 q 415 824 400 808 q 455 850 429 840 q 510 863 481 859 q 570 868 538 867 q 656 858 624 868 q 693 831 683 850 q 707 780 703 812 q 700 707 712 749 q 649 617 688 664 q 552 517 610 569 q 426 427 493 465 q 288 372 358 390 q 175 331 218 354 q 94 275 132 309 q 46 189 56 241 q 36 62 36 137 q 73 -51 36 -4 q 172 -127 109 -98 q 317 -168 234 -155 q 492 -180 399 -180 q 633 -169 573 -180 q 738 -134 692 -157 q 810 -74 785 -111 q 800 187 836 -37 z" }
+  },
+  "familyName": "Inter",
+  "ascender": 1000,
+  "descender": -200,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": { "yMin": -500, "xMin": -500, "yMax": 1500, "xMax": 1500 },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Copyright © 2020 The Inter Project Authors (https://github.com/rsms/inter)",
+    "fontFamily": "Inter",
+    "fontSubfamily": "Bold",
+    "uniqueID": "3.19;RSMS;Inter-Bold",
+    "fullName": "Inter Bold",
+    "version": "3.19",
+    "postScriptName": "Inter-Bold",
+    "trademark": "",
+    "manufacturer": "The Inter Project Authors",
+    "designer": "Rasmus Andersson",
+    "manufacturerURL": "https://github.com/rsms/inter",
+    "designerURL": "https://rsms.me/",
+    "licence": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+    "licenceURL": "http://scripts.sil.org/OFL"
+  },
+  "cssFontWeight": "bold",
+  "cssFontStyle": "normal"
+}
